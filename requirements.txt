@@ -1,0 +1,5 @@
+numpy
+sounddevice
+vosk
+simpful
+RPi.GPIO

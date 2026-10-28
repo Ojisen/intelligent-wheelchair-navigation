@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+tmp/
+temp/
+
+# Environment variables and local configuration
+.env
+.env.*
+!.env.example
+config.local.py
+
+# Vosk models (large files)
+vosk-model*/
+model/
