@@ -45,7 +45,7 @@ intelligent-wheelchair-navigation/
 │   # Raspberry Pi-side system code
 ├── docs/
 │   |── raspberry-pi-setup.pdf
-│   |   # Raspberry Pi setup documentation, if included
+│   |   # Documentation for Raspberry Pi setup and configuration
 |   ├── Overall view of the prototype.png
 │   ├── architecture/
 │   │   └── system_architecture.png
